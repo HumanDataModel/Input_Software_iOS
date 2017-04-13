@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ParameterVocabularies</key>
+	<array>
+		<dict>
+			<key>ParameterNames</key>
+			<array>
+				<string></string>
+			</array>
+			<key>ParameterVocabulary</key>
+			<array>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>human_data_test</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>Human data</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>Human data</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Human data show me photos</string>
+								<string>Show me photos human data</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>IntentPhrases</key>
+	<array>
+		<dict>
+			<key>IntentName</key>
+			<string>INSendPaymentIntent</string>
+			<key>IntentExamples</key>
+			<array>
+				<string>Send $100 to Tim Cook with PCS data</string>
+				<string>Send a message to Bob on PCS data</string>
+				<string>Photos with PCS data</string>
+				<string>Katsellaan fotoja</string>
+				<string>Näytä kuvia</string>
+				<string>Siri, start showing me photos with PCS data</string>
+				<string>Siri, human data show photos</string>
+				<string>Siri, we would like to view photos</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
